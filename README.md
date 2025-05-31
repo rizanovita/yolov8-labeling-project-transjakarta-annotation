@@ -1,4 +1,6 @@
 🌱 YOLOv8 Object Detection - Data Labeling Portfolio🌱
+
+
 Ini adalah proyek portofolio data labeling dan pelatihan model YOLOv8 yang saya kerjakan menggunakan dataset custom untuk mendeteksi objek **Bus Transjakarta**, **Mobil**, dan **Motor**.
 
 Proyek ini mencakup proses:
@@ -7,7 +9,11 @@ Proyek ini mencakup proses:
 - Training dan validasi model
 - Inference untuk menguji model
 
+---
+
 📁 Struktur Folder 
+
+
 yolov8-labeling-project/
 
 ├── [📄 Lihat file data.yaml](./data.yaml)
