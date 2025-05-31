@@ -55,10 +55,10 @@ Model dilatih menggunakan YOLOv8 dari library `ultralytics`.
 ![Contoh Labeling](data/screenshot-1748088189008.png)
 ![Contoh Labeling](data/screenshot-1748088234389.png)
 
-Confusion matrix
+## Confusion matrix
 ![Contoh Labeling](data/confusion_matrix.png)
 
-Results
+## Results
 ![Contoh Labeling](data/results.png)
 
 
