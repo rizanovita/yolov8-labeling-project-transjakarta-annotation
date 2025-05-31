@@ -67,4 +67,8 @@ Model dilatih menggunakan YOLOv8 dari library `ultralytics`.
 ## Results
 ![Contoh Labeling](data/results.png)
 
+## 📬 Contact
+
+Jika Anda ingin berdiskusi tentang proyek ini atau kolaborasi, silakan hubungi saya melalui GitHub atau LinkedIn.
+
 
