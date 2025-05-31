@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['mobil', 'motor', 'transjakarta']
+
+roboflow:
+  workspace: transportasi-h7ccf
+  project: my-first-project-zrdau
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/transportasi-h7ccf/my-first-project-zrdau/dataset/2
