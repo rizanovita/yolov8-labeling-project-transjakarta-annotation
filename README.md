@@ -9,6 +9,7 @@ Proyek ini mencakup proses:
 
 📁 Struktur Folder 
 yolov8-labeling-project/
+
 ├── [📄 Lihat file data.yaml](./data.yaml)
 ├── 📂 [Buka folder `train`](./train/) # Data training
 ├── 📂 [Buka folder `valid`](./valid/) # Data validasi
